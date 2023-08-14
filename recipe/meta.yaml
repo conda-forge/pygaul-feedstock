@@ -1,5 +1,5 @@
 {% set name = "pygaul" %}
-{% set version = "0.2.1" %}
+{% set version = "0.2.2" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/pygaul-{{ version }}.tar.gz
-  sha256: a98b879379825e699ab553cb0874f17ce87b749720f1c508f635110889938a98
+  sha256: cb31a63cf63865885daa6b0bb0a15d0122074d3d55a6baedbbc163ab6a80e015
 
 build:
   noarch: python
