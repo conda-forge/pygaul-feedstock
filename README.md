@@ -9,7 +9,7 @@ Package license: MIT
 
 Summary: Easy access to administrative boundary defined by FAO GAUL from a Python script.
 
-Development: https://github.com/12rambau/pygaul
+Development: https://github.com/gee-community/pygaul
 
 Current build status
 ====================
